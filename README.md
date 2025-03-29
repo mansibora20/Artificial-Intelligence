@@ -7,12 +7,12 @@ This project uses OpenCV and MediaPipe to detect hand gestures via a webcam and 
 - Finger Count Estimation.
 
 Real-time Effects Based on Finger Count 🎥: 
-0 fingers - Zoom In 🔍 
-1 finger - Zoom Out 🔍 
-2 fingers - Grayscale Mode ⚫⚪ 
-3 fingers - Blur Effect 🌫️ 
-4 fingers - Inverted Colors 🎨 
-5 fingers - Reset View 🔄
+~ 0 fingers - Zoom In 🔍 
+~ 1 finger - Zoom Out 🔍 
+~ 2 fingers - Grayscale Mode ⚫⚪ 
+~ 3 fingers - Blur Effect 🌫️ 
+~ 4 fingers - Inverted Colors 🎨 
+~ 5 fingers - Reset View 🔄
 
 🛠️ Requirements 
 Make sure you have the following installed: 
