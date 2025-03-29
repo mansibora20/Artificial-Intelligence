@@ -1,4 +1,4 @@
-Gesture-Based Video Effects using OpenCV & MediaPipe
+**Gesture-Based Video Effects using OpenCV & MediaPipe**
 
 This project uses OpenCV and MediaPipe to detect hand gestures via a webcam and apply real-time video effects based on the number of fingers raised.🖐️
 
